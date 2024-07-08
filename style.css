@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(63, 82, 134);
+    color: white;
+}
+a {
+    color: red;
+}
+h2 {
+    color: greenyellow;
+}
+.header {
+    text-align: center;
+}
+.footer {
+    background-color: rgb(30, 30, 31);
+    text-align: center;
+}
